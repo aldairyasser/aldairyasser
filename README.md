@@ -6,7 +6,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="30%"><strong>🧠 Data Analysis & Visualization</strong></td>
+    <td align="center" width="30%"><strong>🛠️ Data Analysis & Visualization</strong></td>
     <td align="center" width="40%"><strong>🤖 Machine Learning & Deep Learning</strong></td>
     <td align="center" width="40%"><strong>🚀 Deployment & MLOps</strong></td>
   </tr>
