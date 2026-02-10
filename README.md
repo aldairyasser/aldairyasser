@@ -1,6 +1,6 @@
 # Hi, I'm Aldair Yasser 🤓
 
-## 🧠 Data Scientist | Data Analyst | QA DATA | BI DATA<br>
+## 🧠 Data Scientist | Data Analyst | QA Data | BI Data<br>
 
 ## 💻 Tech Stack
 
